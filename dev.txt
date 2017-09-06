@@ -22,8 +22,6 @@ drwxrwxrwx  1 ralph.sigrist  staff   2048  7 Dez  2015 scripts
 5   bbone-target-config.ccxml
 6   beagle-ui.js
 
-
--rwxrwxrwx  1 ralph.sigrist  staff     361  7 Dez  2015 beagle-ui.js
 -rwxrwxrwx  1 ralph.sigrist  staff   13690  7 Dez  2015 beagle.css
 -rwxrwxrwx  1 ralph.sigrist  staff  562718  7 Dez  2015 beagle.ico
 -rwxrwxrwx  1 ralph.sigrist  staff     654  7 Dez  2015 bonescript.js
@@ -54,8 +52,8 @@ drwxrwxrwx  1 ralph.sigrist  staff    4096  7 Dez  2015 images
 
 4 beaglebone/Drivers
 5   Linux
+6   MacOSX
 
-drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 MacOSX
 drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 Windows
 
 
@@ -86,3 +84,8 @@ drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 Windows
 *****************************************************************************
 
 6 beaglebone/README.htm
+
+6 beaglebone/Docs/beagle-ui.js
+
+6 beaglebone/Drivers/MacOSX
+
