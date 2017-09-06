@@ -20,6 +20,8 @@ drwxrwxrwx  1 ralph.sigrist  staff   2048  7 Dez  2015 scripts
 3 beaglebone/Docs
 4   Hardware
 5   bbone-target-config.ccxml
+6   beagle-ui.js
+
 
 -rwxrwxrwx  1 ralph.sigrist  staff     361  7 Dez  2015 beagle-ui.js
 -rwxrwxrwx  1 ralph.sigrist  staff   13690  7 Dez  2015 beagle.css
