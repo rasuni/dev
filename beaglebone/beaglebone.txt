@@ -1,0 +1,72 @@
+1 BEAGLEBONE
+2   App
+3   Docs
+4   Drivers
+5   LICENSE.txt
+
+-rwxrwxrwx  1 ralph.sigrist  staff  16838  7 Dez  2015 README.htm
+-rwxrwxrwx  1 ralph.sigrist  staff    428  7 Dez  2015 README.md
+-rwxrwxrwx  1 ralph.sigrist  staff  16838  7 Dez  2015 START.htm
+-rwxrwxrwx  1 ralph.sigrist  staff    288  7 Dez  2015 autorun.inf
+drwxrwxrwx  1 ralph.sigrist  staff   2048  7 Dez  2015 scripts
+
+
+2 BEAGLEBONE/App
+3   beaglebone-getting-started.icns
+4   package.json
+5 BEAGLEBONE/App
+
+
+3 BEAGLEBONE/Docs
+4   Hardware
+5   bbone-target-config.ccxml
+
+-rwxrwxrwx  1 ralph.sigrist  staff     361  7 Dez  2015 beagle-ui.js
+-rwxrwxrwx  1 ralph.sigrist  staff   13690  7 Dez  2015 beagle.css
+-rwxrwxrwx  1 ralph.sigrist  staff  562718  7 Dez  2015 beagle.ico
+-rwxrwxrwx  1 ralph.sigrist  staff     654  7 Dez  2015 bonescript.js
+-rwxrwxrwx  1 ralph.sigrist  staff    3284  7 Dez  2015 ccs-jtag-simple.htm
+-rwxrwxrwx  1 ralph.sigrist  staff  562718  7 Dez  2015 favicon.ico
+-rwxrwxrwx  1 ralph.sigrist  staff    7870  7 Dez  2015 common.css
+drwxrwxrwx  1 ralph.sigrist  staff    4096  7 Dez  2015 images
+-rwxrwxrwx  1 ralph.sigrist  staff   31423  7 Dez  2015 jquery-ui.css
+-rwxrwxrwx  1 ralph.sigrist  staff  202604  7 Dez  2015 jquery-ui.min.js
+-rwxrwxrwx  1 ralph.sigrist  staff    5128  7 Dez  2015 jquery.dimensions.js
+-rwxrwxrwx  1 ralph.sigrist  staff   93436  7 Dez  2015 jquery.js
+-rwxrwxrwx  1 ralph.sigrist  staff    1024  7 Dez  2015 jquery.mousewheel.js
+-rwxrwxrwx  1 ralph.sigrist  staff    8841  7 Dez  2015 jquery.movingboxes.min.js
+-rwxrwxrwx  1 ralph.sigrist  staff     443  7 Dez  2015 jquery.svg.css
+-rwxrwxrwx  1 ralph.sigrist  staff   58150  7 Dez  2015 jquery.svg.js
+-rwxrwxrwx  1 ralph.sigrist  staff    1878  7 Dez  2015 jquery.terminal.css
+-rwxrwxrwx  1 ralph.sigrist  staff   27307  7 Dez  2015 jquery.terminal.js
+-rwxrwxrwx  1 ralph.sigrist  staff   19014  7 Dez  2015 jquery.ui.accordion.js
+-rwxrwxrwx  1 ralph.sigrist  staff    9241  7 Dez  2015 jquery.ui.core.js
+-rwxrwxrwx  1 ralph.sigrist  staff   15274  7 Dez  2015 jquery.ui.widget.js
+-rwxrwxrwx  1 ralph.sigrist  staff     553  7 Dez  2015 login.css
+-rwxrwxrwx  1 ralph.sigrist  staff       0  7 Dez  2015 none
+
+
+3 BEAGLEBONE/App/beaglebone-getting-started.icns
+4 BEAGLEBONE/App/beaglebone-getting-started.icns
+
+
+4 BEAGLEBONE/Drivers
+5   Linux
+
+drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 MacOSX
+drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 Windows
+
+
+4 BEAGLEBONE/App/package.json
+5    http://blog.hangerhead.com -> ../blog.hangerhead.com/index.html
+
+
+4 BEAGLEBONE/Docs/Hardware
+
+*****************************************************************************
+
+5 BEAGLEBONE/LICENSE.txt
+
+5 BEAGLEBONE/Docs/bone-target-config.ccxml
+
+5 BEAGLEBONE/Drivers/Linux
