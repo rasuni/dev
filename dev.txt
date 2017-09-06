@@ -1,4 +1,4 @@
-1 BEAGLEBONE
+1 beaglebone
 2   App
 3   Docs
 4   Drivers
@@ -11,13 +11,13 @@
 drwxrwxrwx  1 ralph.sigrist  staff   2048  7 Dez  2015 scripts
 
 
-2 BEAGLEBONE/App
+2 beaglebone/App
 3   beaglebone-getting-started.icns
 4   package.json
-5 BEAGLEBONE/App
+5 beaglebone/App
 
 
-3 BEAGLEBONE/Docs
+3 beaglebone/Docs
 4   Hardware
 5   bbone-target-config.ccxml
 
@@ -46,27 +46,29 @@ drwxrwxrwx  1 ralph.sigrist  staff    4096  7 Dez  2015 images
 -rwxrwxrwx  1 ralph.sigrist  staff       0  7 Dez  2015 none
 
 
-3 BEAGLEBONE/App/beaglebone-getting-started.icns
-4 BEAGLEBONE/App/beaglebone-getting-started.icns
+3 beaglebone/App/beaglebone-getting-started.icns
+4 beaglebone/App/beaglebone-getting-started.icns
 
 
-4 BEAGLEBONE/Drivers
+4 beaglebone/Drivers
 5   Linux
 
 drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 MacOSX
 drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 Windows
 
 
-4 BEAGLEBONE/App/package.json
-5    http://blog.hangerhead.com -> ../blog.hangerhead.com/index.html
+4 beaglebone/App/package.json
+5    http://blog.hangerhead.com -> blog.hangerhead.com/index.html
 
 
-4 BEAGLEBONE/Docs/Hardware
+4 beaglebone/Docs/Hardware
 
 *****************************************************************************
 
-5 BEAGLEBONE/LICENSE.txt
+5 beaglebone/LICENSE.txt
 
-5 BEAGLEBONE/Docs/bone-target-config.ccxml
+5 beaglebone/Docs/bone-target-config.ccxml
 
-5 BEAGLEBONE/Drivers/Linux
+5 beaglebone/Drivers/Linux
+
+5 blog.hangerhead.com/index.html
