@@ -58,34 +58,50 @@ drwxrwxrwx  1 ralph.sigrist  staff  2048  7 Dez  2015 Windows
 
 
 4 beaglebone/App/package.json
-5    http://blog.hangerhead.com -> blog.hangerhead.com/index.html
+5   http://blog.hangerhead.com -> blog.hangerhead.com/index.html
+6   http://github.com/jadonk/beaglebone-getting-started.git -> beaglebone-getting-started
+
 
 4 beaglebone/Docs/Hardware
 5   BONE_BOM.xls
+6   BONE_MFG.zip -> BONE_MFG
 
--rwxrwxrwx  1 ralph.sigrist  staff   360960  7 Dez  2015 BONE_BOM.xls
--rwxrwxrwx  1 ralph.sigrist  staff  2820514  7 Dez  2015 BONE_MFG.zip
 -rwxrwxrwx  1 ralph.sigrist  staff  1792761  7 Dez  2015 BONE_PCB.zip
 -rwxrwxrwx  1 ralph.sigrist  staff   346232  7 Dez  2015 BONE_SCH.pdf
 -rwxrwxrwx  1 ralph.sigrist  staff   350631  7 Dez  2015 BONE_SCH.zip
 -rwxrwxrwx  1 ralph.sigrist  staff  2929490  7 Dez  2015 BONE_SRM.pdf
 -rwxrwxrwx  1 ralph.sigrist  staff  8227587  7 Dez  2015 BeagleBone_Black_DOCS.zip
 
+
 5 beaglebone/LICENSE.txt
+6   http://github.com/beagleboard/u-boot -> u-boot
+
 
 5 beaglebone/Docs/bone-target-config.ccxml
 
+
 5 beaglebone/Drivers/Linux
+
 
 5 blog.hangerhead.com/index.html
 
+
 5 beaglebone/Docs/Hardware/BONE_BOM.xls
+
 
 *****************************************************************************
 
+
 6 beaglebone/README.htm
+
 
 6 beaglebone/Docs/beagle-ui.js
 
+
 6 beaglebone/Drivers/MacOSX
 
+
+6 beaglebone-getting-started
+
+
+6 beaglebone/Docs/Hardware/BONE_MFG
